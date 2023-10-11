@@ -1,0 +1,6 @@
+inintial setup
+==================
+git config--global user.name "GIT USER NAME"
+git config--global user.email "EMAIL ID"
+
+commands for 
